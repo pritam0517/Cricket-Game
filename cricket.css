@@ -1,0 +1,36 @@
+
+body {
+    text-align: center;
+    background-image: url(images/image.png);
+    background-size: 200vh;
+    
+  }
+  
+  .choice-button {
+
+    height: 150px;
+    width: 150px;
+    border: none;
+    margin: 10px;
+    background-color: rgb(164, 212, 130);
+    border-radius: 75px;
+    cursor: pointer;
+  }
+  h3{
+    color: white;
+    font-size: 45px;
+  }
+  
+  .choice-image {
+    height: 100px;
+  }
+  .reset-button{
+    font-size: 35px;
+    border-radius: 10px;
+    font-weight: 400;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(240, 16, 16);
+  }
+  h1{
+    font-size: 50px;
+  }
